@@ -8,8 +8,8 @@ This project contains a simple static page in `try/index.html` with Tailwind CSS
 
 ## Files
 
-- `try/index.html` — main HTML page
-- `try/style.css` — compiled Tailwind CSS output
+- `index.html` — main HTML page
+- `style.css` — compiled Tailwind CSS output
 - `src/input.css` — Tailwind input file
 - `package.json` — npm scripts and dependencies
 - `package-lock.json` — exact dependency lockfile

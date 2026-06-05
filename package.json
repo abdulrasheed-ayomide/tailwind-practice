@@ -7,8 +7,8 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./try/style.css --watch",
-    "build": "npx @tailwindcss/cli -i ./src/input.css -o ./try/style.css"
+    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./style.css --watch",
+    "build": "npx @tailwindcss/cli -i ./src/input.css -o ./style.css"
   },
   "dependencies": {
     "@tailwindcss/cli": "^4.1.18",
