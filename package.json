@@ -1,14 +1,14 @@
 {
-  "name": "tailwindcss-started",
+  "name": "sqi-tailwind-try",
   "version": "1.0.0",
-  "description": "",
+  "description": "Responsive SQI College landing page built with Tailwind CSS for learning and practice.",
   "license": "ISC",
   "author": "",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./try/style.css --watch"
+    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./try/style.css --watch",
+    "build": "npx @tailwindcss/cli -i ./src/input.css -o ./try/style.css"
   },
   "dependencies": {
     "@tailwindcss/cli": "^4.1.18",
